@@ -1,10 +1,3 @@
-/*
-
-The Game Project 7 - Making a complete level
-
-Week 11
-
-*/
 
 var gameChar_x;
 var gameChar_y;
